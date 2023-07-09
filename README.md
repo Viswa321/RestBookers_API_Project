@@ -8,5 +8,8 @@ Returns the ids of all the bookings that exist within the API. Can take optional
 https://restful-booker.herokuapp.com/booking
 
 Newman Report of API link
-file:///C:/Users/VISWA/Downloads/postman_report/newman/REST-2023-07-09-14-10-33-376-0.html
+REST-2023-07-09-14-10-33-376-0.html
+
+
+
 

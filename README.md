@@ -6,9 +6,10 @@ Updates a current booking
 https://restful-booker.herokuapp.com/booking/:id
 Returns the ids of all the bookings that exist within the API. Can take optional query strings to search and return a subset of booking ids.
 https://restful-booker.herokuapp.com/booking
+Newman Report of API 
+[Screenshot 2023-07-09 200839](https://github.com/Viswa321/RestBookers_API_Project/assets/135526845/8600158d-d266-499f-85a3-f33052d0008d)
 
-Newman Report of API link
-REST-2023-07-09-14-10-33-376-0.html
+
 
 
 
